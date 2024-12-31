@@ -19,7 +19,7 @@ This project focuses on the fundamental concepts of JavaScript, specifically the
 ---
 
 ## 🌐 Live Preview
-[Click here to see the live preview](https://07asn.github.io/Snacks-Restaurant/)
+[Click here to see the live preview](https://07asn.github.io/Function-Exercise/)
 
 ---
 
